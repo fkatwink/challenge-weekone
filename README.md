@@ -17,6 +17,8 @@ Can be used as an example of an HTML file formatted for accessbility by using se
 
 Also, by accessing the original HTML file on https://github.com/fkatwink/challenge-weekone, user can compare the index.html with the final version by downloading a screen reader and observing the quality first-hand.
 
+You can view the webpage here: https://fkatwink.github.io/challenge-weekone/
+
 ## Credit
 
 Miroslav Gajic: https://www.pluralsight.com/guides/semantic-html
